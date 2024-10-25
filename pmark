@@ -125,7 +125,7 @@ sub parse_args($) {
         print "Usage: pmark [-h] FILES...\n";
         print
 "A hacky, markdown pre-processor. Uses code blocks to generate markdown.\n";
-        print "See https://github.com/seanbreckenridge/pmark for examples.\n";
+        print "See https://github.com/purarue/pmark for examples.\n";
         exit 0;
     }
     return @ARGV;
