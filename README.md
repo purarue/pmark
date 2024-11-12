@@ -117,10 +117,6 @@ As a more complex example, I use this for my blog, see [my blog index](https://g
 
 ### Installation
 
-Download the `pmark` script, make it executable and put it on your `$PATH`. Can also use sinister:
-
-`sh <(curl -sSL http://git.io/sinister) -u 'https://raw.githubusercontent.com/purarue/pmark/master/pmark'`
-
 Or [`basher`](https://github.com/basherpm/basher):
 
 ```
