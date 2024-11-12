@@ -2,7 +2,7 @@
 
 Description of project
 
-This was last edited by username in *2024*
+This was last edited by username in _2024_
 
 Hello world:
 

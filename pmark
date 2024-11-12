@@ -3,7 +3,7 @@
 use File::Temp  qw(tempfile);
 use Getopt::Std qw(getopt);
 use File::Spec;
-use Cwd         qw(cwd);
+use Cwd qw(cwd);
 
 use strict;
 use warnings;
