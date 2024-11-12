@@ -2,7 +2,7 @@
 
 use File::Temp  qw(tempfile);
 use Getopt::Std qw(getopt);
-use File::Spec  qw(splitpath rel2abs);
+use File::Spec;
 use Cwd         qw(cwd);
 
 use strict;
